@@ -7,7 +7,7 @@ feedback link: https://github.com/Snowflake-Labs/sfguides/issues
 tags: Resource Optimization, Cost Optimization, Consumption, Usage Monitoring, Usage, Monitoring 
 authors: Matt Meredith
 
-#Resource Optimization: Usage Monitoring
+# Resource Optimization: Usage Monitoring
 
 <!-- -------------->
 

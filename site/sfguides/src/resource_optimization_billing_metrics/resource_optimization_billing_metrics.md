@@ -7,7 +7,7 @@ feedback link: https://github.com/Snowflake-Labs/sfguides/issues
 tags: Resource Optimization, Cost Optimization, Billing, Billing Metrics, Monitoring 
 authors: Matt Meredith
 
-#Resource Optimization: Billing Metrics
+# Resource Optimization: Billing Metrics
 
 <!-- -------------->
 
